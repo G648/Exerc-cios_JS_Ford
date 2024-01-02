@@ -3,7 +3,7 @@
 // Observação : A taxa de natalidade é calculada pela seguinte fórmula: taxa de natalidade = (número de crianças nascidas x 1000) / número de habitantes;
 // Enquanto que, a taxa de mortalidade = (números de óbitos x 1000) /número de habitantes.
 
-
+//olá!
 
 //entrada de dados
 // verificar o que o usuario vai querer calcular (natalidade ou mortalidade)
